@@ -1,4 +1,4 @@
-# aex402-com
+# aeX402
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aex402-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aex402.com/
+aeX402 is an adaptive market making platform on Solana that leverages on‑chain reinforcement learning to dynamically adjust fees, amplification, and farming rewards. It offers low fees in calm markets and higher fees during volatility, supporting token launches, concentrated liquidity, and automated pool management. The protocol includes security audits, rate limiting, oracle validation, and governance mechanisms to protect liquidity providers and users.
+
+**Areas:** DeFi · AMM · Solana · Reinforcement-Learning · Crypto
+
+## aeX402 on APIs.io
+
+Everything profiled for aeX402 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aex402-com/](https://apis.io/providers/aex402-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [rpc](https://apis.io/apis/aex402-com/rpc/) — Multi-chain RPC proxy with OpenAI-compatible AI proxy and x402 micropayments.
+- [aeX402 Agents API](https://apis.io/apis/aex402-com/aex402-com-agents-api/) — The Agents API from aeX402 — 3 operation(s) for agents.
+- [aeX402 Api Keys API](https://apis.io/apis/aex402-com/aex402-com-api-keys-api/) — The Api Keys API from aeX402 — 1 operation(s) for api keys.
+- [aeX402 Base API](https://apis.io/apis/aex402-com/aex402-com-base-api/) — The Base API from aeX402 — 1 operation(s) for base.
+- [aeX402 Codex API](https://apis.io/apis/aex402-com/aex402-com-codex-api/) — The Codex API from aeX402 — 1 operation(s) for codex.
+- [aeX402 Credits API](https://apis.io/apis/aex402-com/aex402-com-credits-api/) — The Credits API from aeX402 — 1 operation(s) for credits.
+- [aeX402 Eth API](https://apis.io/apis/aex402-com/aex402-com-eth-api/) — The Eth API from aeX402 — 1 operation(s) for eth.
+- [aeX402 Health API](https://apis.io/apis/aex402-com/aex402-com-health-api/) — The Health API from aeX402 — 1 operation(s) for health.
+- [aeX402 Hl API](https://apis.io/apis/aex402-com/aex402-com-hl-api/) — The Hl API from aeX402 — 2 operation(s) for hl.
+- [aeX402 Llms.txt API](https://apis.io/apis/aex402-com/aex402-com-llms-txt-api/) — The Llms.txt API from aeX402 — 1 operation(s) for llms.txt.
+- [aeX402 MCP API](https://apis.io/apis/aex402-com/aex402-com-mcp-api/) — The Mcp API from aeX402 — 1 operation(s) for mcp.
+- [aeX402 Models API](https://apis.io/apis/aex402-com/aex402-com-models-api/) — The Models API from aeX402 — 1 operation(s) for models.
+- [aeX402 Plasma API](https://apis.io/apis/aex402-com/aex402-com-plasma-api/) — The Plasma API from aeX402 — 1 operation(s) for plasma.
+- [aeX402 Rh API](https://apis.io/apis/aex402-com/aex402-com-rh-api/) — The Rh API from aeX402 — 2 operation(s) for rh.
+- [aeX402 Rpc.aex402.com API](https://apis.io/apis/aex402-com/aex402-com-rpc-aex402-com-api/) — The Rpc.aex402.com API from aeX402 — 1 operation(s) for rpc.aex402.com.
+- [aeX402 Slonana API](https://apis.io/apis/aex402-com/aex402-com-slonana-api/) — The Slonana API from aeX402 — 1 operation(s) for slonana.
+- [aeX402 Stable API](https://apis.io/apis/aex402-com/aex402-com-stable-api/) — The Stable API from aeX402 — 1 operation(s) for stable.
+- [aeX402 Tempo API](https://apis.io/apis/aex402-com/aex402-com-tempo-api/) — The Tempo API from aeX402 — 1 operation(s) for tempo.
+- [aeX402 .well Known API](https://apis.io/apis/aex402-com/aex402-com-well-known-api/) — The .well Known API from aeX402 — 1 operation(s) for .well known.
+- [aeX402 Chat Completions API](https://apis.io/apis/aex402-com/aex402-com-chat-completions-api/) — The Chat Completions API from aeX402 — 1 operation(s) for chat completions.
+- [aeX402 Top Up API](https://apis.io/apis/aex402-com/aex402-com-top-up-api/) — The Top Up API from aeX402 — 1 operation(s) for top up.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aex402 Com Agentic Access](https://apis.io/agentic-access/aex402-com/aex402-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aex402 Com Context](https://apis.io/jsonld/aex402-com/aex402-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [aeX402 API Rules](https://apis.io/rules/aex402-com/aex402-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aex402 Com Authentication](https://apis.io/security/aex402-com/aex402-com-authentication/)
+- [Aex402 Com Domain Security](https://apis.io/security/aex402-com/aex402-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aex402.com/)
+- [Documentation](https://aex402.com/docs)
+- [API reference](https://rpc.aex402.com/llms.txt)
+- [Pricing](https://aex402.com/pricing)
+- [Blog](https://aex402.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 38.2** — thin · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 48.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 35.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aex402-com/](https://apis.io/providers/aex402-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for aeX402: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aex402-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
